@@ -16,5 +16,5 @@ A simple inventory management system built using Python. This project includes a
    ```bash
    git clone https://github.com/SWE-Yazeed/Inventory-Management-System
 
-   
+## Home Page
 ![Home Page](https://github.com/user-attachments/assets/3ce091d6-50b6-4338-98b9-26c3a55fff6f)
