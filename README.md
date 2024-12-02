@@ -10,7 +10,8 @@ A simple inventory management system built using Python. This project includes a
 ## Requirements
 - Python 3.6 or later
 - Pillow library (`pip install pillow`)
-
+- Tkinter  library (`pip install tkinter`)
+  
 ## How to Run
 1. Clone this repository:
    ```bash
